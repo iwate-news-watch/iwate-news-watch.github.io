@@ -1,0 +1,22 @@
+[
+  {
+    "id": "nambu",
+    "name": "NAMBU",
+    "model": "行政情報自動収集機 IW-33",
+    "scope": "岩手県内33市町村の新着情報",
+    "url": "/test/",
+    "logo": "/test/nambu-logo.svg",
+    "color": "#C8302A",
+    "status": "稼働中"
+  },
+  {
+    "id": "ginga",
+    "name": "GINGA",
+    "model": "官公庁・機関情報収集装置 GN-16",
+    "scope": "県内の国の出先機関と、大学・研究機関（16機関）の新着情報",
+    "url": "/agencies/",
+    "logo": "/agencies/ginga-logo-v2.svg",
+    "color": "#2A6BD6",
+    "status": "稼働中"
+  }
+]
